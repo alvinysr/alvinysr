@@ -1,3 +1,7 @@
 Undergraduate at The University of Hong Kong (HKU)
 
-Practicing: Python, C++
+Currently Learning: Full Stack Web Development
+
+Occasionally Practicing: Python, C++
+
+
